@@ -2,8 +2,8 @@
 | Country        |Supported Document Types     |
 | ---------------|------------------|
 | Austria                           |ID Card, Driver's License<sup>BETA</sup>|
-| Azerbaijan                        |ID Card||
-| Bahrain                           |ID Card||
+| Azerbaijan                        |ID Card<sup>beta</sup>||
+| Bahrain                           |ID Card<sup>BETA</sup>||
 | Bangladesh                        |ID Card||
 | Belgium                           |ID Card|Driver's License|
 | Bosnia And Herzegovina            |ID Card||
