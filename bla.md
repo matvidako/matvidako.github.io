@@ -1,6 +1,6 @@
 ### Supported documents
 | Country        |Supported Document Types     |
-| ---------------|------------------|
+| :---------------|:------------------|
 | Albania                           |ID Card|
 | Argentina                         |ID Card    |
 | Australia - New South Wales       |Driver's License||
@@ -63,7 +63,7 @@
 | Vietnam                              |ID card<sup>BETA</sup>|
 ### USA Supported documents
 | State        |Supported Document Types     |
-| -------------|------------------|
+| :-------------|:------------------|
 | Alabama                     |Driver's License   |
 | Alaska                      |Driver's License    |
 | Arizona                     |ID Card, Driver's License   |
